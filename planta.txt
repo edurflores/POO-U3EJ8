@@ -1,0 +1,6 @@
+DNI,Nombre,Direccion,Telefono,Sueldo,Antiguedad
+38077647,Eduardo,Barrio Natania,4444444,70000,3
+29545769,Jose,Barrio Cesap,3333333,85000,8
+34564878,Martin,Barrio Cereseto,5555555,75000,5
+41756893,Pablo,Desamparados,1111111,53000,1
+36856793,Lucas,Villa Krawse,2222222,60000,2

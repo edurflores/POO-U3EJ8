@@ -1,0 +1,6 @@
+DNI,Nombre,Direccion,Telefono,fechainicio,fechafin,canthoras
+27348932,Luis,Rodeo,4123333,2005/4/28,2005/6/30,215
+30343412,Fernando,Carpinteria,3111111,2020/3/15,2020/4/15,194	
+28456647,Ramiro,Barrio Aramburu,5346568,2021/2/1,2021/3/1,200	
+31863485,Alberto,Iglesia,6123586,2020/6/1,2020/7/1,210	
+35783213,Leandro,Barrio Soeba,7553442,2021/4/1,2021/5/2,220	

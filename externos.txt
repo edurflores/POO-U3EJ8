@@ -1,0 +1,7 @@
+DNI,Nombre,Direccion,Telefono,Tarea,fechainicio,fechafin,montoviatico,CostoDeObra,montoSeguroVida
+40753624,Raul,Angaco,6234123,Carpinteria,2021/03/1,2021/09/10,3500,18000,2000
+27834512,Alfredo,Zonda,7354412,Electricidad,2021/04/10,2021/08/18,3200,17300,3000
+30575624,Oscar,Barrio Cpt. Lazo,8345123,Plomeria,2020/08/1,2020/08/17,4000,12200,2500
+32648973,Felipe,Chimbas,9344133,Electricidad,2020/07/15,2020/08/1,3700,13500,3600
+35216454,Santiago,Rivadavia,2345234,Carpinteria,2021/09/1,2021/10/20,4100,10000,3400
+39642624,Hernando,Santa Lucia,8537234,Plomeria,2021/03/27,2021/11/1,4200,13000,3100
